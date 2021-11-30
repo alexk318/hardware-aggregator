@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/inputSearch"
+
+        android:enabled="false"
+        app:actionViewClass="android.widget.EditText"
+         />
+
+    <item/>
+
+    <item
+        android:id="@+id/checkBoxShop"
+
+        android:enabled="false"
+
+        app:actionLayout="@layout/nav_drawer_menu_checkbox_shop"
+        />
+
+    <item
+        android:id="@+id/checkBoxForcecom"
+
+        android:enabled="false"
+        app:actionLayout="@layout/nav_drawer_menu_checkbox_forcecom"
+        />
+
+    <item
+        android:id="@+id/checkBoxTomas"
+
+        android:enabled="false"
+        app:actionLayout="@layout/nav_drawer_menu_checkbox_tomas"
+        />
+
+    <item/>
+
+    <item
+        android:id="@+id/switchCostSort"
+        android:title="@string/desc_asc"
+
+        android:enabled="false"
+        app:actionViewClass="com.google.android.material.switchmaterial.SwitchMaterial"
+        />
+
+</menu>

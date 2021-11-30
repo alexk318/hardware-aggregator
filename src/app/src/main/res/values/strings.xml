@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Parser</string>
+    <string name="computer_hardware_parser">Computer hardware parser</string>
+    <string name="shop_kz">Shop.kz</string>
+    <string name="forcecom_kz">Forcecom.kz</string>
+    <string name="tomas_kz">Tomas.kz</string>
+    <string name="find">Find</string>
+    <string name="product_image">Product image</string>
+    <string name="parsingText">Parsing …</string>
+    <string name="loadingText">Loading</string>
+    <string name="errorText">Error occurred. Try again</string>
+    <string name="floatingButtonDescription">Changing the display order by price</string>
+    <string name="searchHint">Search</string>
+    <string name="parseText">Parse</string>
+    <string name="getFromCacheText">Get from cache</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="shop_products">Shop products</string>
+    <string name="forcecom_products">Forcecom products</string>
+    <string name="tomas_products">Tomas products</string>
+    <string name="desc_asc">Desc. / Asc.</string>
+    <string name="cache">Cache</string>
+
+    <string name="checkbox_active_shop_title">Shop products (%d)</string>
+    <string name="checkbox_active_forcecom_title">Forcecom products (%d)</string>
+    <string name="checkbox_active_tomas_title">Tomas products (%d)</string>
+
+    <string-array name="hardware">
+        <item>CPU Processors</item>
+        <item>Graphic cards</item>
+        <item>Motherboards</item>
+    </string-array>
+</resources>
